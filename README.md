@@ -30,9 +30,9 @@ Refer to our detailed documentation for a step-by-step guide, troubleshooting, a
 We welcome contributions! Please check our Contribution Guidelines for details on how to get involved.
 
 ## 📬 Contact Us
-Have questions or suggestions? Reach out to us at support@travelmanagementsystem.com.
+Have questions or suggestions? Reach out to us at apurvabajaj2306@gmail.com.
 
 ## 📜 License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
+This project is licensed under the Apache 2.0 License. Feel free to use, modify, and distribute the code.
 
 Let's reshape the travel industry together! Happy coding! ✈️🌍
