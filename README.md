@@ -18,7 +18,7 @@ Real-time Updates: Keep your customers informed with real-time updates on their 
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/Travel-Agency-Management-System.git
+git clone https://github.com/Bajaj-Apurva/Travel-Agency-Management-System
 Set up the database and configure the necessary settings.
 
 Run the application and start exploring the powerful features!
